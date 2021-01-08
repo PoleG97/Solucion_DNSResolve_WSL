@@ -6,3 +6,6 @@ Funciona de 2 formas:
   2. Sin pasar nada. Sin dar valores se asigna un DNS por defecto, en este caso está el 8.8.8.8 de Google
 
 Se debe ejecutar como sudo dado que hay 2 instrucciones que requieren permisos
+
+Igual necesitas darle permisos al .sh antes: 
+> sudo chmod +x arreglar_DNS.sh
