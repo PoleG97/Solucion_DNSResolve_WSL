@@ -8,7 +8,7 @@ else
         echo nameserver 8.8.8.8 > resolv.conf
 fi
 
-cd /ect/
+cd /etc/
 sudo rm -R resolv.conf
 
 cd /
